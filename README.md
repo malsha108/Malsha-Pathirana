@@ -8,7 +8,7 @@ I’m passionate about UI/UX design and currently learning to create clean , use
 - 🎨 I’m currently working on Mobile App UI & UX Case Studies.
 - 🌱 I’m currently learning Design Systems , Interaction Design  and UX Research
 - 💬 Ask me about Figma, Wireframing, Prototyping, User Research, HTML, CSS
-- 📫 How to reach me: malshahansamal04@gmail.com
+- 📫 How to reach me: malshahansamali04@gmail.com
 - ⚡ Fun fact: I believe good design is invisible.
 - ### 🔗 Connect with me:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/malsha-pathirana)
