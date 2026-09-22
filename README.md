@@ -1,21 +1,17 @@
-‎README.md‎
--25
-Lines changed: 0 additions & 25 deletions
+### Hi 👋, I'm Malsha Pathirana!
 
+A passionate **UI/UX Designer** and HNDIT student from Sri Lanka 🇱🇰
 
-Original file line number	Diff line number	Diff line change
-@@ -1,26 +1 @@
-Hi 👋, I'm Malsha Pathirana!
-HNDIT Student from Sri Lanka 🇱🇰 Aspiring UI/UX Designer and Learning Figma and creating user-friendly designs.
-I’m passionate about UI/UX design and currently learning to create clean , user-friendly and accessible digital experiences. I enjoy understanding user needs and turning ideas into beautiful , functional designs.
-- 🎨 I’m currently working on Mobile App UI & UX Case Studies.
-- 🌱 I’m currently learning Design Systems , Interaction Design  and UX Research
-- 💬 Ask me about Figma, Wireframing, Prototyping, User Research, HTML, CSS
-- 📫 How to reach me: malshahansamal04@gmail.com
-- ⚡ Fun fact: I believe good design is invisible.
-- ### 🔗 Connect with me:
+- 🔭 I’m currently working on **Mobile App UI & UX Case Studies**
+- 🌱 I’m currently learning **Design Systems, Interaction Design, and UX Research**
+- 💬 Ask me about **Figma, Wireframing, Prototyping, User Research, HTML, CSS**
+- 📫 How to reach me: **malshahansamal04@gmail.com**
+- ⚡ Fun fact: **I believe good design is invisible!**
+
+### Connect with me:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/malsha-pathirana)
-### 🛠️ Languages and Tools:
+
+### Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
