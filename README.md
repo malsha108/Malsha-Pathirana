@@ -1,4 +1,4 @@
-###Hi 👋, I'm Malsha Pathirana!
+Hi 👋, I'm Malsha Pathirana!
 HNDIT Student from Sri Lanka 🇱🇰 Aspiring UI/UX Designer and Learning Figma and creating user-friendly designs.
 
 I’m passionate about UI/UX design and currently learning to create clean , user-friendly and accessible digital experiences. I enjoy understanding user needs and turning ideas into beautiful , functional designs.
